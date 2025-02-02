@@ -1,0 +1,1 @@
+import{r as n,a9 as s,aa as r}from"./index-DLpikvjc.js";function a(e){return Object.keys(e).length===0}function o(e=null){const t=n.useContext(s);return!t||a(t)?e:t}const u=r();function m(e=u){return o(e)}export{o as a,m as u};
